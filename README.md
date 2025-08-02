@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shaon</h1>
 <h3 align="center">Dedicated Computer Science student with a passion for building real-world applications using Django</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaon-coders&label=Profile%20views&color=0e75b6&style=flat" alt="shaon-coders" /> </p>
+
+<p align="left"> <a href="https://twitter.com/shaon_coders" target="blank"><img src="https://img.shields.io/twitter/follow/shaon_coders?logo=twitter&style=for-the-badge" alt="shaon_coders" /></a> </p>
+
 - 🌱 I’m currently learning **Backend API Development with Python**
 
 - 👨‍💻 All of my projects are available at [https://shaoncv-7a0d0.web.app/](https://shaoncv-7a0d0.web.app/)
@@ -16,6 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shaon_coders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaon_coders" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shaon-coders/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaon-coders/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=61556142856082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61556142856082" height="30" width="40" /></a>
 </p>
 
