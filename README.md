@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaon</h1>
 <h3 align="center">Dedicated Computer Science student with a passion for building real-world applications using Django</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaon-coders" alt="shaon-coders" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/shaon_coders" target="blank"><img src="https://img.shields.io/twitter/follow/shaon_coders?logo=twitter&style=for-the-badge" alt="shaon_coders" /></a> </p>
-
 - 🌱 I’m currently learning **Backend API Development with Python**
 
 - 👨‍💻 All of my projects are available at [https://shaoncv-7a0d0.web.app/](https://shaoncv-7a0d0.web.app/)
@@ -28,9 +24,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/shaon_coders"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/shaon_coders" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaon-coders&show_icons=true&locale=en&layout=compact" alt="shaon-coders" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaon-coders&show_icons=true&locale=en" alt="shaon-coders" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaon-coders&" alt="shaon-coders" /></p>
