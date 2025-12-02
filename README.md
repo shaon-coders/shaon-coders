@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Backend API Development with Python**
 
-- 👨‍💻 All of my projects are available at [https://shaoncv-7a0d0.web.app/](https://shaondev.me/)
+- 👨‍💻 All of my projects are available at [https://shaondev.me/](https://shaondev.me/)
 
 - 💬 Ask me about **Python 🐍 - Django (views, models, ORM, admin panel) 🌐 - MySQL & Database design 🗄️ - HTML, CSS, Bootstrap 🎨 - Web application logic & backend development 🔧**
 
 - 📫 How to reach me **mdshaonsheikh546@gmail.com**
 
-- 📄 Know about my experiences [https://shaoncv-7a0d0.web.app/](https://shaoncv-7a0d0.web.app/)
+- 📄 Know about my experiences [https://shaondev.me/](https://shaondev.me/)
 
 - ⚡ Fun fact **I love Code and Coffee**
 
