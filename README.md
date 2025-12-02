@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend API Development with Python**
 
-- 👨‍💻 All of my projects are available at [https://shaoncv-7a0d0.web.app/](https://shaoncv-7a0d0.web.app/)
+- 👨‍💻 All of my projects are available at [https://shaoncv-7a0d0.web.app/](https://shaondev.me/)
 
 - 💬 Ask me about **Python 🐍 - Django (views, models, ORM, admin panel) 🌐 - MySQL & Database design 🗄️ - HTML, CSS, Bootstrap 🎨 - Web application logic & backend development 🔧**
 
